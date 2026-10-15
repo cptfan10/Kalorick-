@@ -1,0 +1,6 @@
+{
+  "name": "NutriPlan - Kalorické tabulky a výživový poradce",
+  "description": "Chytré kalorické tabulky s osobní analýzou metabolismu, denním záznamníkem jídel, doporučováním jídel na míru a přehlednými grafy pokroku.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
